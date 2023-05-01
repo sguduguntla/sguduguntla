@@ -1,6 +1,4 @@
-### Hi 👋
-
-#### Call me Sai! I'm a full-stack engineer... 📚💻
+### Hi 👋 Call me Sai!
 
 - 🧑🏽‍💻 Currently a founding engineer @ [Bloom (YC W21)](https://bloomapp.com)
 - 🌱 Formerly founded a fintech startup called Calypso
