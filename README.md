@@ -9,6 +9,6 @@
 
 Visit [`sriharshaguduguntla.com`](http://sriharshaguduguntla.com)
 
-📫 Feel free to shoot me an [email](sreeharsha11@gmail.com) to chat! 
+📫 Feel free to shoot me an [email](mailto:sreeharsha11@gmail.com) to chat! 
 
 ⚡ Fun fact: Lebron's the 🐐
