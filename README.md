@@ -7,7 +7,7 @@
 - 🏬 Developed data analytics tools for smart buildings @ [RISE Lab](https://rise.berkeley.edu/)
 - 🐻 Graduated from UC Berkeley Class of '22
 
-Visit [`sriharshaguduguntla.com`](sriharshaguduguntla.com)
+Visit [`sriharshaguduguntla.com`](http://sriharshaguduguntla.com)
 
 📫 Feel free to shoot me an [email](sreeharsha11@gmail.com) to chat! 
 
