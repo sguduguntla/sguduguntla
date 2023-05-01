@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**sguduguntla/sguduguntla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Call me Sai! I'm a full-stack engineer... 📚💻
 
-Here are some ideas to get you started:
+- 🧑🏽‍💻 Currently a founding engineer @ [Bloom (YC W21)](https://bloomapp.com)
+- 🌱 Formerly founded a fintech startup called Calypso
+- ☁️ Built Einstein AI Chatbots @ [Salesforce](https://www.salesforceairesearch.com/)
+- 🏎️ Worked on operating systems for self-driving cars @ [ERDOS](https://github.com/erdos-project/erdos)
+- 🏬 Developed data analytics tools for smart buildings @ [RISE Lab](https://rise.berkeley.edu/)
+- 🐻 Graduated from UC Berkeley Class of '22
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit [`sriharshaguduguntla.com`](sriharshaguduguntla.com)
+
+📫 Feel free to shoot me an [email](sreeharsha11@gmail.com) to chat! 
+
+⚡ Fun fact: Lebron's the 🐐
