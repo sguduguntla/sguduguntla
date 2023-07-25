@@ -8,7 +8,7 @@ console.log(`Visit ${website}\n${String.fromCodePoint(0x0001F4EB)} Feel free to 
 console.log(`${String.fromCodePoint(0x000026A1)} Fun fact: Lebron's the ${String.fromCodePoint(0x0001F410)}`);
 ```
 
-- 🧑🏽‍💻 Currently working on Hyperbound
+- 🧑🏽‍💻 Currently working on [Hyperbound](https://hyperbound.ai/)
 - 🌸 Formerly a founding engineer @ [Bloom (YC W21)](https://bloomapp.com)
 - 🌱 Formerly founded a fintech startup called Calypso
 - ☁️ Built Einstein AI Chatbots @ [Salesforce](https://www.salesforceairesearch.com/)
